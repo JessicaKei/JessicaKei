@@ -1,6 +1,6 @@
 ![JesKei Banner](./Assets/jeskei-banner-1200x480.webp)
 
-# Jessica Kei
+# Jessica Kei <img align="right" alt="Profile views" src="https://komarev.com/ghpvc/?username=JessicaKei&label=Profile%20Views&color=000F2D&style=for-the-badge&abbreviated=true" />
 
 Full-stack AI engineer focused on autonomous agents, experimental software, automation systems, and AI-driven interaction models.  
 
@@ -34,7 +34,7 @@ Open-source, experimentation, curiosity, and building things that users don't al
       <a href="https://www.patreon.com/cw/JesKei">Patreon</a>
     </td>
     <td>
-      development logs and support
+      announcements, development logs, support, and much more
     </td>
   </tr>
 
@@ -69,5 +69,6 @@ Open-source, experimentation, curiosity, and building things that users don't al
 
 <div align="center">
   <img valign="top" height=315 alt="JesKei's GitHub stats" src="https://github-readme-stats-hazel-theta-38.vercel.app/api?username=JessicaKei&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&bg_color=000F2D&border_color=022B8A&text_color=C3F5F6&icon_color=01B5FD&title_color=00A8F2&ring_color=01B5FD" />
+  
   <img valign="top" height=315 alt="JesKei's top languages" src="https://github-readme-stats-hazel-theta-38.vercel.app/api/top-langs?username=JessicaKei&layout=compact&langs_count=18&bg_color=000F2D&border_color=022B8A&text_color=C3F5F6&icon_color=01B5FD&title_color=00A8F2&size_weight=1&count_weight=0.00001&card_width=330" />
 </div>
