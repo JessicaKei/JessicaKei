@@ -73,10 +73,10 @@ Open-source, experimentation, curiosity, and building things that users don't al
 
 <div align="center">
   <a href="https://github.com/JessicaKei/github-readme-stats">
-    <img valign="top" height=315 alt="JesKei's GitHub stats" src="https://jeskei-github-stats.vercel.app/api?username=JessicaKei&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&bg_color=000F2D&border_color=022B8A&text_color=C3F5F6&icon_color=01B5FD&title_color=00A8F2&ring_color=01B5FD" />
+    <img valign="top" height=315 alt="JesKei's GitHub stats" src="https://jeskei-github-stats.vercel.app/api?username=JessicaKei&theme=deep_ocean&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
   </a>
   
   <a href="https://github.com/JessicaKei/github-readme-stats">
-    <img valign="top" height=315 alt="JesKei's top languages" src="https://jeskei-github-stats.vercel.app/api/top-langs?username=JessicaKei&layout=compact&langs_count=18&bg_color=000F2D&border_color=022B8A&text_color=C3F5F6&icon_color=01B5FD&title_color=00A8F2&size_weight=1&count_weight=0.00001&card_width=330" />
+    <img valign="top" height=315 alt="JesKei's top languages" src="https://jeskei-github-stats.vercel.app/api/top-langs?username=JessicaKei&theme=deep_ocean&layout=compact&langs_count=18&size_weight=1&count_weight=0.00001&card_width=330" />
   </a>
 </div>
