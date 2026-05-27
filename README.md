@@ -28,7 +28,7 @@ Open-source, experimentation, curiosity, and building things that users don't al
 <table>
   <tr>
     <td>
-      <a href="https://www.patreon.com/cw/JesKei"><img src="https://cdn.simpleicons.org/patreon" width="18" valign="middle" /></a>
+      <a href="https://www.patreon.com/cw/JesKei"><img src="https://cdn.simpleicons.org/patreon" width="18px" valign="middle" /></a>
     </td>
     <td>
       <a href="https://www.patreon.com/cw/JesKei">Patreon</a>
@@ -40,7 +40,7 @@ Open-source, experimentation, curiosity, and building things that users don't al
 
   <tr>
     <td>
-      <a href="https://www.youtube.com/@jeskei-ai"><img src="https://cdn.simpleicons.org/youtube" width="18" valign="middle" /></a>
+      <a href="https://www.youtube.com/@jeskei-ai"><img src="https://cdn.simpleicons.org/youtube" width="18px" valign="middle" /></a>
     </td>
     <td>
       <a href="https://www.youtube.com/@jeskei-ai">YouTube</a>
@@ -52,7 +52,7 @@ Open-source, experimentation, curiosity, and building things that users don't al
 
   <tr>
     <td>
-      <a href="https://github.com/JessicaKei"><img src="https://cdn.simpleicons.org/github" width="18" valign="middle" /></a>
+      <a href="https://github.com/JessicaKei"><img src="https://cdn.simpleicons.org/github" width="18px" valign="middle" /></a>
     </td>
     <td>
       <a href="https://github.com/JessicaKei">GitHub</a>
