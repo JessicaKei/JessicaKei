@@ -27,7 +27,7 @@ Open-source, experimentation, curiosity, and building things that users don't al
 
 <table>
   <tr>
-    <td>
+    <td width="45px">
       <a href="https://www.patreon.com/cw/JesKei"><img src="https://cdn.simpleicons.org/patreon" width="18px" valign="middle" /></a>
     </td>
     <td>
@@ -39,7 +39,7 @@ Open-source, experimentation, curiosity, and building things that users don't al
   </tr>
 
   <tr>
-    <td>
+    <td width="45px">
       <a href="https://www.youtube.com/@jeskei-ai"><img src="https://cdn.simpleicons.org/youtube" width="18px" valign="middle" /></a>
     </td>
     <td>
@@ -51,7 +51,7 @@ Open-source, experimentation, curiosity, and building things that users don't al
   </tr>
 
   <tr>
-    <td>
+    <td width="45px">
       <a href="https://github.com/JessicaKei"><img src="https://cdn.simpleicons.org/github" width="18px" valign="middle" /></a>
     </td>
     <td>
