@@ -28,7 +28,13 @@ Open-source, experimentation, curiosity, and building things that users don't al
 <table>
   <tr>
     <td width="45px">
-      <a href="https://www.patreon.com/cw/JesKei"><img src="https://cdn.simpleicons.org/patreon" width="18px" valign="middle" /></a>
+      <a href="https://www.patreon.com/cw/JesKei">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/patreon/white" />
+          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://cdn.simpleicons.org/patreon" />
+          <img src="https://cdn.simpleicons.org/patreon" width="18px" valign="middle" />
+        </picture>
+      </a>
     </td>
     <td>
       <a href="https://www.patreon.com/cw/JesKei">Patreon</a>
@@ -40,7 +46,13 @@ Open-source, experimentation, curiosity, and building things that users don't al
 
   <tr>
     <td width="45px">
-      <a href="https://www.youtube.com/@jeskei-ai"><img src="https://cdn.simpleicons.org/youtube" width="18px" valign="middle" /></a>
+      <a href="https://www.youtube.com/@jeskei-ai">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/youtube" />
+          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://cdn.simpleicons.org/youtube" />
+          <img src="https://cdn.simpleicons.org/youtube" width="18px" valign="middle" />
+        </picture>
+      </a>
     </td>
     <td>
       <a href="https://www.youtube.com/@jeskei-ai">YouTube</a>
@@ -52,7 +64,13 @@ Open-source, experimentation, curiosity, and building things that users don't al
 
   <tr>
     <td width="45px">
-      <a href="https://github.com/JessicaKei"><img src="https://cdn.simpleicons.org/github" width="18px" valign="middle" /></a>
+      <a href="https://github.com/JessicaKei">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white" />
+          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://cdn.simpleicons.org/github" />
+          <img src="https://cdn.simpleicons.org/github" width="18px" valign="middle" />
+        </picture>
+      </a>
     </td>
     <td>
       <a href="https://github.com/JessicaKei">GitHub</a>
@@ -73,10 +91,10 @@ Open-source, experimentation, curiosity, and building things that users don't al
 
 <div align="center">
   <a href="https://github.com/JessicaKei/github-readme-stats">
-    <img valign="top" height=315 alt="JesKei's GitHub stats" src="https://jeskei-github-stats.vercel.app/api?username=JessicaKei&theme=deep_ocean&show_icons=true&include_all_commits=true&commits_api=advanced&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+    <img valign="top" height="315px" alt="JesKei's GitHub stats" src="https://jeskei-github-stats.vercel.app/api?username=JessicaKei&theme=deep_ocean&show_icons=true&include_all_commits=true&commits_api=advanced&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
   </a>
   
   <a href="https://github.com/JessicaKei/github-readme-stats">
-    <img valign="top" height=315 alt="JesKei's top languages" src="https://jeskei-github-stats.vercel.app/api/top-langs?username=JessicaKei&theme=deep_ocean&layout=compact&langs_count=18&size_weight=1&count_weight=0.00001&card_width=330" />
+    <img valign="top" height="315px" alt="JesKei's top languages" src="https://jeskei-github-stats.vercel.app/api/top-langs?username=JessicaKei&theme=deep_ocean&layout=compact&langs_count=18&size_weight=1&count_weight=0.00001&card_width=330" />
   </a>
 </div>
