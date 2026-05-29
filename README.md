@@ -40,7 +40,7 @@ Open-source, experimentation, curiosity, and building things that users don't al
       <a href="https://www.patreon.com/cw/JesKei">Patreon</a>
     </td>
     <td>
-      announcements, development logs, support, and much more
+      Announcements, development logs, support, and much more.
     </td>
   </tr>
 
@@ -58,7 +58,7 @@ Open-source, experimentation, curiosity, and building things that users don't al
       <a href="https://www.youtube.com/@jeskei-ai">YouTube</a>
     </td>
     <td>
-      demonstrations and videos
+      Demonstrations and videos.
     </td>
   </tr>
 
@@ -76,7 +76,21 @@ Open-source, experimentation, curiosity, and building things that users don't al
       <a href="https://github.com/JessicaKei">GitHub</a>
     </td>
     <td>
-      repositories and open-source projects
+      Repositories and open-source projects.
+    </td>
+  </tr>
+
+  <tr>
+    <td width="45px">
+      <a href="https://www.chess.com/member/jeskei">
+        <img src="./Assets/chess-100x100.png" width="18px" valign="middle" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.chess.com/member/jeskei">Chess.com</a>
+    </td>
+    <td>
+      If you want to play a game of chess with me, just send a challenge! I'll accept it if I have free time and am not busy with other games.
     </td>
   </tr>
 </table>
