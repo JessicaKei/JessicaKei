@@ -113,10 +113,10 @@ Open-source, experimentation, curiosity, and building things that users don't al
   </a>
 
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=JessicaKei&background=000F2D&border=022B8A&stroke=00A8F2&ring=01B5FD&fire=01B5FD&currStreakNum=C3F5F6&sideNums=C3F5F6&currStreakLabel=00A8F2&sideLabels=00A8F2&dates=C3F5F6" alt="GitHub Streak" />
+    <img valign="top" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=JessicaKei&background=000F2D&border=022B8A&stroke=00A8F2&ring=01B5FD&fire=01B5FD&currStreakNum=C3F5F6&sideNums=C3F5F6&currStreakLabel=00A8F2&sideLabels=00A8F2&dates=C3F5F6" />
   </a>
 
   <a href="https://github.com/JessicaKei/github-readme-activity-graph">
-    <img valign="top" width="295px" src="https://jeskei-readme-activity-graph.vercel.app/graph?username=JessicaKei&theme=deep_ocean&radius=16&height=792" alt="Github Activity Graph" />
+    <img valign="top" width="295px" alt="Github Activity Graph" src="https://jeskei-readme-activity-graph.vercel.app/graph?username=JessicaKei&theme=deep_ocean&radius=16&height=792" />
   </a>
 </div>
