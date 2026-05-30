@@ -117,6 +117,6 @@ Open-source, experimentation, curiosity, and building things that users don't al
   </a>
 
   <a href="https://github.com/JessicaKei/github-readme-activity-graph">
-    <img valign="top" width="295px" src="https://jeskei-readme-activity-graph.vercel.app/graph?username=JessicaKei&theme=deep_ocean&radius=16&height=792" alt="GitHub Streak" />
+    <img valign="top" width="295px" src="https://jeskei-readme-activity-graph.vercel.app/graph?username=JessicaKei&theme=deep_ocean&radius=16&height=792" alt="Github Activity Graph" />
   </a>
 </div>
