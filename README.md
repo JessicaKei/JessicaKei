@@ -93,6 +93,24 @@ Open-source, experimentation, curiosity, and building things that users don't al
       If you want to play a game of chess with me, just send a challenge! I'll accept it if I have free time and am not busy with other games.
     </td>
   </tr>
+
+  <tr>
+    <td width="45px">
+      <a href="https://www.linkedin.com/in/jeskei/">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi:linkedin.svg?color=%230a66c2" />
+          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://api.iconify.design/mdi:linkedin.svg?color=%230a66c2" />
+          <img src="https://api.iconify.design/mdi:linkedin.svg?color=%230a66c2" width="18px" valign="middle" />
+        </picture>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/jeskei/">LinkedIn</a>
+    </td>
+    <td>
+      Connect with me to chat about tech, AI, or collaborations.
+    </td>
+  </tr>
 </table>
 
 <br />
