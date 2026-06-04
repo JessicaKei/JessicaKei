@@ -130,8 +130,8 @@ Open-source, experimentation, curiosity, and building things that users don't al
     <img valign="top" height="315px" alt="JesKei's top languages" src="https://jeskei-github-stats.vercel.app/api/top-langs?username=JessicaKei&theme=deep_ocean&layout=compact&langs_count=18&size_weight=1&count_weight=0.00001&card_width=330" />
   </a>
 
-  <a href="https://git.io/streak-stats">
-    <img valign="top" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=JessicaKei&background=000F2D&border=022B8A&stroke=00A8F2&ring=01B5FD&fire=01B5FD&currStreakNum=C3F5F6&sideNums=C3F5F6&currStreakLabel=00A8F2&sideLabels=00A8F2&dates=C3F5F6" />
+  <a href="https://github.com/JessicaKei/github-readme-streak-stats">
+    <img valign="top" alt="GitHub Streak" src="https://jeskei-readme-streak-stats.vercel.app?user=JessicaKei&theme=deep_ocean" />
   </a>
 
   <a href="https://github.com/JessicaKei/github-readme-activity-graph">
