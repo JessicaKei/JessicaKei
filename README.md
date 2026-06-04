@@ -127,7 +127,7 @@ Open-source, experimentation, curiosity, and building things that users don't al
   </a>
   
   <a href="https://github.com/JessicaKei/github-readme-stats">
-    <img valign="top" height="315px" alt="JesKei's top languages" src="https://jeskei-github-stats.vercel.app/api/top-langs?username=JessicaKei&theme=deep_ocean&layout=compact&langs_count=18&size_weight=1&count_weight=0.00001&card_width=330" />
+    <img valign="top" height="315px" alt="JesKei's top languages" src="https://jeskei-github-stats.vercel.app/api/top-langs?username=JessicaKei&theme=deep_ocean&layout=compact&langs_count=18&size_weight=1&count_weight=0.00001&card_width=330&custom_title=JesKei%27s%20top%20languages" />
   </a>
 
   <a href="https://github.com/JessicaKei/github-readme-streak-stats">
