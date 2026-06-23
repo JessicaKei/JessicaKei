@@ -1,6 +1,6 @@
-<a href="https://www.patreon.com/cw/JesKei"><img alt="JesKei Banner" src="./Assets/jeskei-banner-1200x480.webp" /></a>
+<a href="https://www.patreon.com/JesKei"><img alt="JesKei Banner" src="./Assets/jeskei-banner-1200x480.webp" /></a>
 
-# Jessica Kei <a href="https://www.patreon.com/cw/JesKei"><img align="right" alt="Profile views" src="https://komarev.com/ghpvc/?username=JessicaKei&label=Profile%20Views&color=000F2D&style=for-the-badge&abbreviated=true" /></a>
+# Jessica Kei <a href="https://www.patreon.com/JesKei"><img align="right" alt="Profile views" src="https://komarev.com/ghpvc/?username=JessicaKei&label=Profile%20Views&color=000F2D&style=for-the-badge&abbreviated=true" /></a>
 
 Full-stack AI engineer focused on autonomous agents, experimental software, automation systems, and AI-driven interaction models.  
 
@@ -28,7 +28,7 @@ Open-source, experimentation, curiosity, and building things that users don't al
 <table>
   <tr>
     <td width="45px">
-      <a href="https://www.patreon.com/cw/JesKei">
+      <a href="https://www.patreon.com/JesKei">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/patreon/white" />
           <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://cdn.simpleicons.org/patreon" />
@@ -37,7 +37,7 @@ Open-source, experimentation, curiosity, and building things that users don't al
       </a>
     </td>
     <td>
-      <a href="https://www.patreon.com/cw/JesKei">Patreon</a>
+      <a href="https://www.patreon.com/JesKei">Patreon</a>
     </td>
     <td>
       Announcements, development logs, support, and much more.
